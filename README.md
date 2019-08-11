@@ -1,4 +1,4 @@
-# Hackerrank - 10 Days of Statistics 
+# HackerRank - 10 Days of Statistics 
 
 <div style='float: center; text-align: center; margin-bottom: 20px'>
   <a href='https://www.hackerrank.com/msgrubler' target="_blank">
