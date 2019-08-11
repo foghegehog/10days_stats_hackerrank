@@ -2,12 +2,13 @@
 
 <div style='float: center; text-align: center; margin-bottom: 20px'>
   <a href='https://www.hackerrank.com/msgrubler' target="_blank">
-  <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
+  <img width="200px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
 
 This repository contains solutions to the "10 Days of Statistics" HackerRank challenge along with tasks statements combined into Jupyter Notebooks for convenience.
-[Link to the challenge:](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+[Link to the challenge.](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+
 Topics covered:
 
 <table>
